@@ -1,7 +1,7 @@
 😂 Jokes Website
 Welcome to the Jokes Website – a fun and light-hearted platform to brighten your day with a random joke every time you visit!
 
-🔗 Live Site: siddharthsinghnathawat.github.io/Jokes
+🔗 Live Site: https://siddharthsinghnathawat.github.io/Jokes
 
 🚀 Features
 🎲 Get a new random joke with each refresh
